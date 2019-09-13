@@ -2,7 +2,7 @@
 lock '3.6.0'
 
 # デプロイするアプリケーション名
-set :application, 'achieve'
+set :application, 'faceclone'
 
 # cloneするgitのレポジトリ
 # （xxxxxxxx：ユーザ名、yyyyyyyy：アプリケーション名）
